@@ -12,6 +12,17 @@
             "extract_dir": "link-shell-win32"
         }
     },
+    "installer": {
+        "file": "HardLinkShellExt_X64.exe",
+        "args": [
+            "/S",
+            "/D=$dir"
+        ]
+    },
+    "uninstaller": {
+        "file": "uninst-HardlinkShellExt_X64.exe",
+        "args": "/S"
+    },
     "notes": [
         "Restart explorer to activate context menu."
     ]
