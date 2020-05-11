@@ -1,21 +1,21 @@
 {
     "architecture": {
         "32bit": {
-            "hash": "c214751a1206b0434de59a9f0ba9cfdc80a0952c1d06aa076bcbfba71eaebc0b",
-            "url": "https://github.com/bitbeans/SimpleDnsCrypt/releases/download/0.6.4/SimpleDNSCrypt.msi"
+            "hash": "cac6b8119af3da70a5977a2e73ee5214303990fedd7abbc5f247a1e2cf19a663",
+            "url": "https://simplednscrypt.blob.core.windows.net/deploy/SimpleDnsCrypt/bin/x86/SimpleDNSCrypt_x86.zip"
         },
         "64bit": {
-            "hash": "f6c381cc7717a027f977321fc02dda60f80954982ddd8d4e4b1c9b6eeeda752f",
-            "url": "https://github.com/bitbeans/SimpleDnsCrypt/releases/download/0.6.4/SimpleDNSCrypt64.msi"
+            "hash": "1b718f6114761a19e11c6585ecc4f2f2f8523aa1f79b46ac986ff7433152d841",
+            "url": "https://simplednscrypt.blob.core.windows.net/deploy/SimpleDnsCrypt/bin/x64/SimpleDNSCrypt_x64.zip"
         }
     },
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://github.com/bitbeans/SimpleDnsCrypt/releases/download/$version/SimpleDNSCrypt.msi"
+                "url": "https://simplednscrypt.blob.core.windows.net/deploy/SimpleDnsCrypt/bin/x86/SimpleDNSCrypt_x86.zip"
             },
             "64bit": {
-                "url": "https://github.com/bitbeans/SimpleDnsCrypt/releases/download/$version/SimpleDNSCrypt64.msi"
+                "url": "https://simplednscrypt.blob.core.windows.net/deploy/SimpleDnsCrypt/bin/x64/SimpleDNSCrypt_x64.zip"
             }
         }
     },
@@ -23,7 +23,7 @@
     "checkver": {
         "github": "https://github.com/bitbeans/SimpleDnsCrypt"
     },
-    "description": "Simple management tool for dnscrypt-proxy",
+    "description": "Simple management tool for dnscrypt-proxy (portable)",
     "homepage": "https://simplednscrypt.org/",
     "license": "MIT",
     "shortcuts": [
@@ -32,8 +32,5 @@
             "Simple DNSCrypt"
         ]
     ],
-    "uninstaller": {
-        "file": "Uninstall.exe"
-    },
-    "version": "0.6.4"
+    "version": "0.7.1"
 }
