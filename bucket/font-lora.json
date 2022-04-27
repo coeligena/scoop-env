@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Lora",
     "url": "https://fonts.google.com/download?family=Lora#/dl.7z",
-    "hash": "f827f3899208ceb1bf4dcf752ec695d36579fd356141e162bcce4d038649ad72",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

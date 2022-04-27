@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Bitter",
     "url": "https://fonts.google.com/download?family=Bitter#/dl.7z",
-    "hash": "a31dbbafb58faabb02d180a77b4ed42a4310877710e4318f9adeb35bb82d9499",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

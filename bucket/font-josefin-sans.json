@@ -3,7 +3,7 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Josefin%20Sans",
     "url": "https://fonts.google.com/download?family=Josefin%20Sans#/dl.7z",
-    "_hash": "24e910e3d5ec233796d2d313910c2ad71b76e73b633ef29153488cd5a5d8eae2",
+    "_hash": "e8e6f9704fcf69bdd0e2cb160787c760ded7a28d9dc101b5d9bcbd487bb81db2",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

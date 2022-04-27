@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Exo",
     "url": "https://fonts.google.com/download?family=Exo#/dl.7z",
-    "hash": "30aadcd7eb2b429aa56151596597311860f936096a50cc0b42ab3d95b013232d",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

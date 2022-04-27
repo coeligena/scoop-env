@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Catamaran",
     "url": "https://fonts.google.com/download?family=Catamaran#/dl.7z",
-    "hash": "2cc21327d6820270e5c4bf71fdda3d32c5198a91b1fc446b1fb21dc3da2fc449",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

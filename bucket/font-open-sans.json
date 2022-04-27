@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Open%20Sans",
     "url": "https://fonts.google.com/download?family=Open%20Sans#/dl.7z",
-    "hash": "da00d6f00a99963ca7e1a5869e3bbf530d57ce61f18e033b9f8c49c30b7043f2",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

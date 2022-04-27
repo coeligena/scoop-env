@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Source%20Serif%20Pro",
     "url": "https://fonts.google.com/download?family=Source%20Serif%20Pro#/dl.7z",
-    "hash": "000c5528662f2d608aca933b214eea24867f37c21f8972fee25e06cd242aeb38",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

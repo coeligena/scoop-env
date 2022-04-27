@@ -3,7 +3,7 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Assistant",
     "url": "https://fonts.google.com/download?family=Assistant#/dl.7z",
-    "hash": "cd628c8c220e3a2db14802d7e71b4feeb29b3d74ff6d0fba64aa1c1d0ff7da0f",
+    "hash": "14b219de7abc3ac6c5f4d30647076a91b51e03c5017ed40586a5e8e31b177f7a",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

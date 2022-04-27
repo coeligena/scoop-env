@@ -5,7 +5,7 @@
             "url": "https://simplednscrypt.blob.core.windows.net/deploy/SimpleDnsCrypt/bin/x86/SimpleDNSCrypt_x86.zip"
         },
         "64bit": {
-            "hash": "1b718f6114761a19e11c6585ecc4f2f2f8523aa1f79b46ac986ff7433152d841",
+            "hash": "fe5d68668dd46c358da46fd29b174bc5b23f596cbb63d5f6146b3a5a7db48ba9",
             "url": "https://simplednscrypt.blob.core.windows.net/deploy/SimpleDnsCrypt/bin/x64/SimpleDNSCrypt_x64.zip"
         }
     },

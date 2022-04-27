@@ -3,7 +3,7 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Nunito",
     "url": "https://fonts.google.com/download?family=Nunito#/dl.7z",
-    "hash": "dac12c35ece1392a6662b27fe923c509fd5245a06afe6ca28af96c2cec33c371",
+    "hash": "e2fb4383310de687ebc7b9b9036d9b92edfc1b0224ac83c9a7b750eabebf158a",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

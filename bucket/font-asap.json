@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Asap",
     "url": "https://fonts.google.com/download?family=Asap#/dl.7z",
-    "hash": "0e3119759d748129a7008ad98c1139de6a4f2e343d89e53ddd088fbac08fd754",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

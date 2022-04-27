@@ -3,7 +3,7 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Abel",
     "url": "https://fonts.google.com/download?family=Abel#/dl.7z",
-    "hash": "f0786e6534777a7dcca67ad204eb6a3249db771d5ad840f4108cb766cd0a603b",
+    "hash": "adf78af6e6d53062554abcbf1a3ae463ef161a5368e1106350db0876e4b20d0c",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

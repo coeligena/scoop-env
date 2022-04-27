@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Raleway",
     "url": "https://fonts.google.com/download?family=Raleway#/dl.7z",
-    "hash": "82d4d80b781b2736fbd46edd7bc6273fd118bc4a64a8072d0f1f3e797e0be551",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

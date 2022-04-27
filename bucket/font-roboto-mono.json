@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Roboto%20Mono",
     "url": "https://fonts.google.com/download?family=Roboto%20Mono#/dl.7z",
-    "hash": "28badb50c44918271301a21c45074b701f0748896b421e93b0b07ed7b634a62a",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

@@ -3,7 +3,7 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Playball",
     "url": "https://fonts.google.com/download?family=Playball#/dl.7z",
-    "hash": "d5ce001d8dd58b987fca652f37f4816f67bf34d5dd486507d98e9e44fbd42d77",
+    "hash": "f5cce96751115f5a8bc1e163953bf1232f4d5757b3d04ee3e2634d6641164de9",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

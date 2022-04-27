@@ -3,7 +3,7 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Kanit",
     "url": "https://fonts.google.com/download?family=Kanit#/dl.7z",
-    "hash": "e81e996015f60e519729b8e31f281c72776df642577dab76bf216c7ccc097450",
+    "hash": "566d29b9f4fa2f1ac803fb32ff8577abd3f487504cb88c66fbdcd03be2446129",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

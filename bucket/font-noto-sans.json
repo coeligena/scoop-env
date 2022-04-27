@@ -3,7 +3,7 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Noto%20Sans",
     "url": "https://fonts.google.com/download?family=Noto%20Sans#/dl.7z",
-    "hash": "fc3096610180dca7784bf2140233e8644a0e7927c1664e3fe1e80cbc08d3fd31",
+    "hash": "35ebd4731a5c18d4b7034137bdfa25e6a8ab0c142bdc904a9454be323ddd7787",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

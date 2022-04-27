@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Vollkorn",
     "url": "https://fonts.google.com/download?family=Vollkorn#/dl.7z",
-    "hash": "fa55ac88ddc74be17fc7b0ff455e452be95bfef3ead6d103c980e7644896cdca",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

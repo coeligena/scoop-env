@@ -3,7 +3,7 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Poppins",
     "url": "https://fonts.google.com/download?family=Poppins#/dl.7z",
-    "hash": "298e2ecb48c27461f721210640049a66156ae5c755bac055b2c5d271a447e619",
+    "hash": "c0c46fffcec34aa012e192e4c471440ac36439e1ae4fcec5b7dcbb50b62fd324",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

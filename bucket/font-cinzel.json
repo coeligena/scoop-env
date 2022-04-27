@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Cinzel",
     "url": "https://fonts.google.com/download?family=Cinzel#/dl.7z",
-    "hash": "2c9db3253dcca899bd2ba7b2c38be1fafa7beb7a959d5ae7f0869be701c905c5",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

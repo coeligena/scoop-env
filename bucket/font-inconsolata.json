@@ -3,7 +3,7 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Inconsolata",
     "url": "https://fonts.google.com/download?family=Inconsolata#/dl.7z",
-    "hash": "2d8d75b0b04b0a54d4faaefde7075f6584b18d6961b6902f99db069095356b0d",
+    "hash": "d1bb6f866e2ec6c1d74f1f217daa2bb4f1bbec379a0f19e520a401920f2b3bfb",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

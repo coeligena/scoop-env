@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Karla",
     "url": "https://fonts.google.com/download?family=Karla#/dl.7z",
-    "hash": "3b8f0151cb4d6759730167d4390dc25f071ddb26dd512b009acd8af2483dcff2",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

@@ -3,7 +3,7 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Cairo",
     "url": "https://fonts.google.com/download?family=Cairo#/dl.7z",
-    "hash": "4207fa85d0923fafa4c8ece71ef05d468b76143ed3f6c6341609ce8a2b6c0d27",
+    "hash": "22dc2a96e3d6ec18b7d45fdf42b74fc8976b12d550beba405d72e224885dc11e",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

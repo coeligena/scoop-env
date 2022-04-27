@@ -3,7 +3,7 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Material%20Icons",
     "url": "https://fonts.google.com/download?family=Material%20Icons#/dl.7z",
-    "hash": "8fe6ab79ba7dec7b18052a2713a7766ff9d615c0aa273c3bbcab46d6fac4609e",
+    "hash": "10b653a646743f10ff5cf74f4fdcaa62014dae02ef192b15fb843760a4b8afee",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

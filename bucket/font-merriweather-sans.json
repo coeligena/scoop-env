@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Merriweather%20Sans",
     "url": "https://fonts.google.com/download?family=Merriweather%20Sans#/dl.7z",
-    "hash": "243d5e82254d741d97d22e757227f8a86025d1bafc61ea7e4b336ac10564e7ad",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Josefin%20Slab",
     "url": "https://fonts.google.com/download?family=Josefin%20Slab#/dl.7z",
-    "hash": "d04e9f4846e7766d20d3801669f921d3487c9076fff480f0cf3da6f9ea86b89b",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

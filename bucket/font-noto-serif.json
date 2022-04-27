@@ -3,7 +3,7 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Noto%20Serif",
     "url": "https://fonts.google.com/download?family=Noto%20Serif#/dl.7z",
-    "hash": "caa6744e3c28754156a294332433ed0e559b5e20a214b56f20f5c8eb5ea078a3",
+    "hash": "7b8eddfd791131f6d3cfc29240a0c30b3c82b3bb24190a81522a4f3d58e749a4",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

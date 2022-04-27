@@ -3,7 +3,7 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Alegreya",
     "url": "https://fonts.google.com/download?family=Alegreya#/dl.7z",
-    "hash": "b9db79406f35d338e8dd8f9d2ab8f215d6db371245c85630236fe60d06df0357",
+    "hash": "538ac42d611212a7eb963c2e349f1f4a058d65fc70a7a2b9082f68aad31db9aa",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

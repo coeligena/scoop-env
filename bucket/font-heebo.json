@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Heebo",
     "url": "https://fonts.google.com/download?family=Heebo#/dl.7z",
-    "hash": "e0dfdaff06640416477504ec2cceefb7bffa0a67ab1338d45a7ba3e5ea009deb",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

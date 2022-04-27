@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Libre%20Franklin",
     "url": "https://fonts.google.com/download?family=Libre%20Franklin#/dl.7z",
-    "hash": "f380b1849e81bf21a69f40fcdedb68e679eac946a0e45f79fdba6d0619627df4",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

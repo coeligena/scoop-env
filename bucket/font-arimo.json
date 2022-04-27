@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Arimo",
     "url": "https://fonts.google.com/download?family=Arimo#/dl.7z",
-    "hash": "7e686b4fefc3242eb5d16f1bbcd17934bcaa9fe1469ab174174bbaf6a5bd2fdc",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

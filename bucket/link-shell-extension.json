@@ -1,10 +1,10 @@
 {
     "homepage": "http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html",
-    "version": "3.9.2.4",
+    "version": "3.9.3.5",
     "architecture": {
         "64bit": {
             "url": "http://schinagl.priv.at/nt/hardlinkshellext/HardLinkShellExt_X64.exe",
-            "hash": "5e0a0e2f763ca9cad31a4d2a621e597bc5be2d8c6fc98d43c91449933db45ba1",
+            "hash": "ca3f26ebf49dc4ea8b5d8c0154acca0de59a8689e5907fe748ffaeaa357ff3a0",
             "extract_dir": "link-shell-winx64"
         },
         "32bit": {

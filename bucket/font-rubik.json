@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Rubik",
     "url": "https://fonts.google.com/download?family=Rubik#/dl.7z",
-    "hash": "65bb0586ab7a6dc63473904ee86d1467ca8a4250d7c489c668c4755996a80f7b",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

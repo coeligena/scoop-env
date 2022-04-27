@@ -3,7 +3,7 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Great%20Vibes",
     "url": "https://fonts.google.com/download?family=Great%20Vibes#/dl.7z",
-    "hash": "bb493f0fbaf4365f51d2523348066e62aba4da8f621e160560674e043e911231",
+    "hash": "cd9e584927ba3509f43322d2f227a02414f3223a3cd4c59bd69817cd01cae115",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

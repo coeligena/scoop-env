@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Questrial",
     "url": "https://fonts.google.com/download?family=Questrial#/dl.7z",
-    "hash": "befbec8c9e970f204833acbeab045f82b54c9f4b782edc06d09c7c88d2df4d10",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

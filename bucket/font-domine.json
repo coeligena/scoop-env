@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Domine",
     "url": "https://fonts.google.com/download?family=Domine#/dl.7z",
-    "hash": "14075e71809ed59474d4b1094d211751acf84b3243d228af95e48b6da350e46c",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

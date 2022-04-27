@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Cuprum",
     "url": "https://fonts.google.com/download?family=Cuprum#/dl.7z",
-    "hash": "7faf17148feb3b6759dea572a9bd9930412360650d90be1779e9ea237fd0e492",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

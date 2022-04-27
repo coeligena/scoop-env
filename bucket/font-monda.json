@@ -3,7 +3,7 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Monda",
     "url": "https://fonts.google.com/download?family=Monda#/dl.7z",
-    "hash": "9669bbec2a0605cfa5100e9b60afb2b0009ba6b007c06edbe69dd95212677dde",
+    "hash": "9e8423089a855460cc898467ca79e8f14e6d9f8e3e6cf30ff9c809dcf3395d10",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

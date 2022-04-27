@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Cabin",
     "url": "https://fonts.google.com/download?family=Cabin#/dl.7z",
-    "hash": "a2ca7f0acaca4a2fed86497f08b739aa98ad82f5b2c933dd783f03fab7e97c3e",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {

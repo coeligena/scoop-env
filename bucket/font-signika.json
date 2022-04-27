@@ -3,7 +3,6 @@
     "license": "MIT",
     "homepage": "https://fonts.google.com/specimen/Signika",
     "url": "https://fonts.google.com/download?family=Signika#/dl.7z",
-    "hash": "e9f6c1722d7df7f5d6e5802df08f01130b8683d5dc7e6fd61262cf6be906f183",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {
